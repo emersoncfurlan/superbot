@@ -1,2 +1,6 @@
-# superbot
-Projeto Open Source - Robô -  Criação de conteúdos de texto e vídeo de forma automatizada 
+# SuperBot
+<h3>Projeto Open Source - Robô -  Criação de conteúdos multimidia de forma automatizada</h3> 
+
+<h4>Seja um colaborador e coloque sua carinha aqui no Hall da Fama <3</h4>
+  
+[![](https://sourcerer.io/fame/EmersonFurlan/EmersonFurlan/superbot/images/0)](https://sourcerer.io/fame/EmersonFurlan/EmersonFurlan/superbot/links/0)[![](https://sourcerer.io/fame/EmersonFurlan/EmersonFurlan/superbot/images/1)](https://sourcerer.io/fame/EmersonFurlan/EmersonFurlan/superbot/links/1)[![](https://sourcerer.io/fame/EmersonFurlan/EmersonFurlan/superbot/images/2)](https://sourcerer.io/fame/EmersonFurlan/EmersonFurlan/superbot/links/2)[![](https://sourcerer.io/fame/EmersonFurlan/EmersonFurlan/superbot/images/3)](https://sourcerer.io/fame/EmersonFurlan/EmersonFurlan/superbot/links/3)[![](https://sourcerer.io/fame/EmersonFurlan/EmersonFurlan/superbot/images/4)](https://sourcerer.io/fame/EmersonFurlan/EmersonFurlan/superbot/links/4)[![](https://sourcerer.io/fame/EmersonFurlan/EmersonFurlan/superbot/images/5)](https://sourcerer.io/fame/EmersonFurlan/EmersonFurlan/superbot/links/5)[![](https://sourcerer.io/fame/EmersonFurlan/EmersonFurlan/superbot/images/6)](https://sourcerer.io/fame/EmersonFurlan/EmersonFurlan/superbot/links/6)[![](https://sourcerer.io/fame/EmersonFurlan/EmersonFurlan/superbot/images/7)](https://sourcerer.io/fame/EmersonFurlan/EmersonFurlan/superbot/links/7)
