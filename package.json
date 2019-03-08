@@ -1,11 +1,14 @@
 {
-  "name": "SuperBot",
+  "name": "superbot_projeto",
   "version": "1.0.0",
   "dependencies": {
-    "mic": "^2.1.2",
+    "algorithmia": "^0.3.10",
+    "google-trends-api": "^4.9.0",
+    "i": "^0.3.6",
+    "npm": "6.4.1",
     "readline-sync": "latest",
-    "shelljs": "^0.8.3",
-    "watson-developer-cloud": "^3.18.1",
-    "node": "latest"
+    "rss-parser": "^3.6.3",
+    "sbd": "^1.0.14",
+    "watson-developer-cloud": "^3.18.1"
   }
 }
