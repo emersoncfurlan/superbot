@@ -10,7 +10,7 @@
     "i": "^0.3.6",
     "image-downloader": "^3.4.2",
     "npm": "6.4.1",
-    "react-native": "^0.59.3",
+    "react-native": "^0.62.3",
     "react-native-maps": "^0.23.0",
     "readline-sync": "latest",
     "rss-parser": "^3.6.3",
